@@ -28,3 +28,5 @@ An AI-powered interview practice platform built with **Next.js**, allowing users
 - (Optional) OpenAI API for AI evaluation
 
 ---
+
+Vercel : https://ai-interview-green-kappa.vercel.app/
